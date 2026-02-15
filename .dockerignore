@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+data/
+notebook/
+notebooks/
+*.log
+mlops_project.egg-info/
+.dvc/
