@@ -272,12 +272,6 @@ The Chrome Extension provides real-time sentiment analysis for any YouTube video
 
 *Line graph showing sentiment trends over time with monthly breakdown.*
 
-### Comment Sentiments
-
-![Comment Sentiments](assets/comment_sentiments.png)
-
-*Individual comment sentiment predictions showing text and classified sentiment.*
-
 ### Installation
 
 1. Open Chrome → `chrome://extensions/`
