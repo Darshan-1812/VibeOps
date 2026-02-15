@@ -1,0 +1,4 @@
+{
+    "run_id": "37071fc842a546c0ba269c6ae669fb43",
+    "model_path": "s3://mlflow-darshan/4/37071fc842a546c0ba269c6ae669fb43/artifacts/lgbm_model"
+}
