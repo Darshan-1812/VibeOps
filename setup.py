@@ -6,6 +6,6 @@ setup(
     packages=find_packages(),
     install_requires=[],
     author='darshan girase',
-    author_email= 'darshangirase18@gmail.com'
+    author_email='darshangirase18@gmail.com',
     description='End-to-end MLOps Project',
 )
