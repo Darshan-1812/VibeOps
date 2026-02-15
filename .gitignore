@@ -1,1 +1,6 @@
 .env
+/experiment_info.json/data/
+/venv/
+*.log
+__pycache__/
+*.pkl
